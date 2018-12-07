@@ -1,6 +1,9 @@
 # Hadoop
 
-This code was produced for the TP1 (06/10/17) of the HADOOP course at ECE Paris
+This code is an implementation of Map/Reduce coded in java to do a pivot from a csv table
 
-It is the code I implemented for the Map & Reduce exercice. 
-The code is commented and can be tested in java with the file provided.
+<ul>Files provided :
+	<li>ListElement.java</li>
+	<li>MapAndReduce.java</li>
+	<li>fichierCSV.csv</li>
+</ul>
